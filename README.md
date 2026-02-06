@@ -50,7 +50,11 @@ This project was created as part of an internship task to demonstrate UI design 
   [(https://www.figma.com/design/DBA8jBzW4sBVEmeN1NAYJC/Sellsense--A-Finance-Dashboard?node-id=0-1&t=0NxdpIzzU4AP1GKP-1)]
 
 - 🎥 **Demo Video:**  
-  [Add demo video link here]
+  [https://drive.google.com/file/d/1EAP35BYhUuh72sbLZ-qlWEsrmlHy37Os/view?usp=sharing]
 
 - 🧠 **UX Rationale:**  
-  [Add UX rationale link or section link here]
+  [(https://docs.google.com/document/d/1Y-KlKMQX1v8mED5VqbRxgzU05iLt-eaj/edit?usp=sharing&ouid=113496088910812035027&rtpof=true&sd=true)]
+
+  - 🎨 **Design Assets (GoogleDrive):**  
+  [(https://drive.google.com/file/d/19SUsh9PxlrDFj6TWxMzV2cBHn0n3cChF/view?usp=sharing)]
+
